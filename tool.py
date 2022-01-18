@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 & Hemanta Pokharel & The Anon Cat
+# (c) @Theonearmy made with love
 
 import aiohttp
 from configs import Config
